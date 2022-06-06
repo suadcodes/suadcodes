@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suad
 - 👀 I’m interested in improving my coding skills
 - 🌱 I’m currently a computer science student.
-- 📫 How to reach me ...
+- 📫 How to reach me : suadcodes@gmail.com
 
 <!---
 suadcodes/suadcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
