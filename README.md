@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suadcodes
+- 👋 Hi, I’m Suad
 - 👀 I’m interested in improving my coding skills
 - 🌱 I’m currently a computer science student.
 - 📫 How to reach me ...
