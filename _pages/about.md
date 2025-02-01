@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: my current motto: drink as much water as possible and get through the day.
+subtitle: current motto is drink as much water as possible and get through the day.
 
 profile:
   align: right
