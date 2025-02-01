@@ -25,14 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Hi, my name is Suad Ali Hersi. Currently I'm doing many things amongst which is pursuing a Master's of Science in Artificial Intelligence at Queen Mary University of London.
 
-
-
-
-
-
-Hi, my name is Suad Ali Hersi. Currently I'm doing many things amongst which is pursuing a Master's of Science in Artificial Intelligence at Queen Mary University of London. 
-
-My strongest skill is being a really good problem solver. 
-A fun fact about me is that I'm a polygot. I speak Somali, Swahili and English Fluently and speak Intermediate Arabic. 
-
+My strongest skill is being a really good problem solver.
+A fun fact about me is that I'm a polygot. I speak Somali, Swahili and English Fluently and speak Intermediate Arabic.
