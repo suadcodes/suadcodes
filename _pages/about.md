@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: my current motto: drink as much water as possible and get through the day.
 
 profile:
   align: right
@@ -24,6 +24,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+
+
+
+
+
 
 Hi, my name is Suad Ali Hersi. Currently I'm doing many things amongst which is pursuing a Master's of Science in Artificial Intelligence at Queen Mary University of London. 
 
