@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
-  more_info: >
+  more_info: |
   <p>London,UK</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
