@@ -6,7 +6,7 @@ subtitle: current motto is drink as much water as possible and get through the d
 
 profile:
   align: right
-  image: prof_pic2.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
   <p>London,UK</p>
